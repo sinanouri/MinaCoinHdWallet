@@ -1,0 +1,30 @@
+{
+  "name": "minacoin-hdwallet",
+  "version": "1.0.0",
+  "description": "Simple package to generate mina coin hd wallet with mnemonic and derivation path",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinanouri/MinaCoinHdWallet.git"
+  },
+  "keywords": [
+    "mina",
+    "minacoin",
+    "hdwallet",
+    "mnemonic",
+    "derivation"
+  ],
+  "author": "cnaFnury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinanouri/MinaCoinHdWallet/issues"
+  },
+  "homepage": "https://github.com/sinanouri/MinaCoinHdWallet#readme",
+  "dependencies": {
+    "bip39": "^3.1.0",
+    "hdkey": "^2.1.0"
+  }
+}
