@@ -9,7 +9,6 @@ MinaHDWallet is a Node.js package that allows you to generate a hierarchical det
 
 To use MinaHDWallet, you'll need to install it in your Node.js environment using npm:
 
-Copy code
 
 `npm install minacoin-hdwallet` 
 
@@ -32,7 +31,6 @@ The code above generates a new HD wallet for the Mina cryptocurrency using the s
 
 MinaHDWallet exposes a single function that takes two arguments:
 
-javascriptCopy code
 
     MinaHDWallet(mnemonic, derivationPath)
 
